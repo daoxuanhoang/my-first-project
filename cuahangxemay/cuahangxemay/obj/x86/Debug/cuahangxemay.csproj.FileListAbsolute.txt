@@ -1,0 +1,16 @@
+C:\Users\THUY KHUNG\Desktop\cuahangxemay\cuahangxemay\obj\x86\Debug\cuahangxemay.Properties.Resources.resources
+C:\Users\THUY KHUNG\Desktop\cuahangxemay\cuahangxemay\obj\x86\Debug\cuahangxemay.csproj.GenerateResource.Cache
+C:\Users\THUY KHUNG\Desktop\cuahangxemay\cuahangxemay\bin\Debug\cuahangxemay.exe
+C:\Users\THUY KHUNG\Desktop\cuahangxemay\cuahangxemay\bin\Debug\cuahangxemay.pdb
+C:\Users\THUY KHUNG\Desktop\cuahangxemay\cuahangxemay\obj\x86\Debug\cuahangxemay.exe
+C:\Users\THUY KHUNG\Desktop\cuahangxemay\cuahangxemay\obj\x86\Debug\cuahangxemay.pdb
+C:\Users\THUY KHUNG\Desktop\cuahangxemay\cuahangxemay\obj\x86\Debug\cuahangxemay.Dangnhap.resources
+C:\Users\THUY KHUNG\Desktop\cuahangxemay\cuahangxemay\obj\x86\Debug\cuahangxemay.DoiMatKhau.resources
+C:\Users\THUY KHUNG\Desktop\cuahangxemay\cuahangxemay\obj\x86\Debug\cuahangxemay.frmmain.resources
+C:\Users\THUY KHUNG\Desktop\cuahangxemay\cuahangxemay\obj\x86\Debug\cuahangxemay.csprojResolveAssemblyReference.cache
+C:\Users\THUY KHUNG\Desktop\cuahangxemay\cuahangxemay\obj\x86\Debug\cuahangxemay.DanhMucKhachHang.resources
+C:\Users\THUY KHUNG\Desktop\cuahangxemay\cuahangxemay\obj\x86\Debug\cuahangxemay.DanhMucLoaiXe.resources
+C:\Users\THUY KHUNG\Desktop\cuahangxemay\cuahangxemay\bin\Debug\cuahangxemay.exe.config
+C:\Users\THUY KHUNG\Desktop\cuahangxemay\cuahangxemay\obj\x86\Debug\cuahangxemay.DanhSachPhuTung.resources
+C:\Users\THUY KHUNG\Desktop\cuahangxemay\cuahangxemay\obj\x86\Debug\cuahangxemay.HoaDonBanHang.resources
+C:\Users\THUY KHUNG\Desktop\cuahangxemay\cuahangxemay\obj\x86\Debug\cuahangxemay.BanDoi.resources
